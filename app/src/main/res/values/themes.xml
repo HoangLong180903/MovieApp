@@ -1,0 +1,22 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MVPTutotial" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryVariant">@color/orange_sun</item>
+    </style>
+
+    <style name="ScreenBackground">
+        <item name="background">@color/white</item>
+    </style>
+    <style name="cardBackgroundColor"><item name="background">@color/white</item></style>
+    <style name="TextColor">
+        <item name="android:textColor">@color/lavender</item>
+    </style>
+    <style name="bottomnavBackground">
+        <item
+            name="background">@color/white</item>
+    </style>
+    <style name="Theme.MVPTutotial" parent="Base.Theme.MVPTutotial" />
+</resources>
